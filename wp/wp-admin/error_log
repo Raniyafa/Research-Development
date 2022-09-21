@@ -1,0 +1,3 @@
+[14-Aug-2022 11:06:44 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home3/wireling/public_html/wp/wp-includes/block-supports/align.php on line 48
+[14-Aug-2022 11:06:44 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home3/wireling/public_html/wp/wp-includes/block-supports/custom-classname.php on line 48
+[16-Aug-2022 21:00:03 UTC] PHP Warning:  Division by zero in /home3/wireling/public_html/wp/wp-admin/includes/class-custom-image-header.php on line 1276
